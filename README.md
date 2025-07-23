@@ -1,1 +1,2 @@
 # MSDS-430-EDA-Project
+The final project for this course was to perform EDA in Python on a dataset and topic of our choosing, and provide an executive report. For my project, I chose to use NFL Quarterback data from the 2022 and 2023 seasons (at the time the most recent full seasons). The data was extracted from Pro Football Focus. The EDA was conducted through operations such as Pandas manipulation, and data visualization libraries such as Matplotlib and Seaborn in Python. 
